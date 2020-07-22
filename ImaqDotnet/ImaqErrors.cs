@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ImaqDotnet
 {
-    public class ImaqError
+    public class ImaqErrors
     {
         public const uint IMG_ERR_FIRST_ERROR = 0xBFF60001; // (-1074397183)
 
